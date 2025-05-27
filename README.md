@@ -1,7 +1,7 @@
 <h1 align="center">ETL Pipeline for Data Warehouse</h1>
 <p align="center">
   <a href="https://github.com/PoojaKabadi/Cloud-Datawarehouse/tree/main">
-    <img src="https://github.com/user-attachments/assets/689ef7bd-33dd-448c-94c5-c4a1d6b008fb" alt="ETL Pipeline Overview" width="900px" />
+    <img src="https://github.com/user-attachments/assets/4b593a26-725b-4630-a97c-2f26b7279e0e" alt="ETL Pipeline Overview" width="900px" />
   </a>
   <br><i>
     Built a robust ETL pipeline using Apache Hop and Oracle SQL
